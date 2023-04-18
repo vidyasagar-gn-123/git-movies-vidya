@@ -1,0 +1,7 @@
+Movies list:
+
+Kannada : KGF
+Hindi : Bollywood
+Telugu : RRR
+Malayalam : ABCD
+Tamil : 6th sense
